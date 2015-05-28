@@ -1,2 +1,2 @@
 # test-repo-for-demos
-temp Repo for demo'ing this to new users
+Edited using MS Visual Studio Express 2013 for Web
